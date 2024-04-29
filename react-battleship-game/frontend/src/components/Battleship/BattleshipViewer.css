@@ -1,0 +1,21 @@
+.modalContent{
+    display: flex;
+    justify-content: space-evenly;    
+}
+
+.playingGrid{
+    display:flex;
+    flex-direction: column;
+}
+
+.playingGridRow{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.playingGridSubtitle{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}

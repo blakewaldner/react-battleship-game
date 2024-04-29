@@ -1,0 +1,8 @@
+.battleshipGrid {
+    display:grid;
+    grid-template-columns: 50px 50px 50px 50px 50px 50px 50px;
+    grid-template-rows: 49px 49px 49px 49px 49px 49px 49px;
+    margin:20px;
+    border:0px;
+    padding:0px;
+  }

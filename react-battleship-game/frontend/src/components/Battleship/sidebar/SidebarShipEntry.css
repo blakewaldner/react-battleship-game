@@ -1,0 +1,22 @@
+.entry{
+    display:flex;
+    flex-direction: column;
+}
+.pics {
+    display: flex;
+    align-items: center;
+
+}
+.pics img{
+    margin: 5px;
+}
+
+.picH{
+    height:120px;
+    width:auto;
+}
+
+.picV{
+    height:auto;
+    width: 120px;
+}
