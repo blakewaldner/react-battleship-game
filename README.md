@@ -1,1 +1,1 @@
-![Model](poster.png)
+![Model](Poster.png)
